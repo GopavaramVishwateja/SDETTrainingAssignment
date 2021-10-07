@@ -1,1 +1,1 @@
-# SDETTrainingAssignment
+# SDETTraining-Java Assignment
